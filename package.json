@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "description": "A short description of your package",
   "activationEvents": ["smart-cutcopypaste:smart_copy", "smart-cutcopypaste:smart_cut", "smart-cutcopypaste:smart_paste"],
-  "repository": "https://github.com/atom/smart-cutcopypaste",
+  "repository": "https://github.com/TimSullivan/smart-cutcopypaste",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
